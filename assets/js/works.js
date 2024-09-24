@@ -1,10 +1,10 @@
 const items = [
   {
     category: "javascript",
-    title: "forty",
+    title: "bootstrap portfolio",
     subtitle: "responsive web",
-    img: "assets/img/forty.webp",
-    link: "https:/hyemin-pb.github.io/responsive-forty",
+    img: "assets/img/bootstrap-portfolio.png",
+    link: "https://hyemin-pb.github.io/2024-portfolio-bootstrap/",
   },
   {
     category: "javascript",
@@ -29,6 +29,13 @@ const items = [
   },
   {
     category: "javascript",
+    title: "forty",
+    subtitle: "responsive web",
+    img: "assets/img/forty.webp",
+    link: "https:/hyemin-pb.github.io/responsive-forty",
+  },
+  {
+    category: "javascript",
     title: "starbucks",
     subtitle: "Publishing",
     img: "assets/img/starbucks.webp",
@@ -37,7 +44,7 @@ const items = [
   {
     category: "javascript",
     title: "그림판",
-    subtitle: "Main Page Publishing",
+    subtitle: "canvas를 사용한 Publishing",
     img: "assets/img/paint.webp",
     link: "https://hyemin-pb.github.io/javascript-paint/",
   },
@@ -48,6 +55,21 @@ const items = [
     img: "assets/img/moment.webp",
     link: "https://hyemin-pb.github.io/javascript-moment/",
   },
+  {
+    category: "javascript",
+    title: "gomin talk",
+    subtitle: "Frontend develop",
+    img: "assets/img/gomintalk.webp",
+    link: "pages/pb-gomintalk.html",
+  },
+  {
+    category: "javascript",
+    title: "내돈내산",
+    subtitle: "Fullstack develop",
+    img: "assets/img/naedonnaesan.png",
+    link: "pages/pb-naedonnaesan.html",
+  },
+
   {
     category: "jQuery",
     title: "2021 Portfolio",
