@@ -11,7 +11,7 @@ const items = [
     title: "phantom",
     subtitle: "responsive web",
     img: "assets/img/phantom.webp",
-    link: "https:/hyemin-pb.github.io/responsive-forty",
+    link: "https:/hyemin-pb.github.io/responsive-phantom",
   },
   {
     category: "javascript",
