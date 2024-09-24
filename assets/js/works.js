@@ -32,14 +32,14 @@ const items = [
     title: "starbucks",
     subtitle: "Publishing",
     img: "assets/img/starbucks.webp",
-    link: "https:/hyemin-pb.github.io/javascript-starbucks",
+    link: "https://hyemin-pb.github.io/javascript-starbucks/",
   },
   {
     category: "javascript",
     title: "그림판",
     subtitle: "Main Page Publishing",
     img: "assets/img/paint.webp",
-    link: "https://hyemin-pb.github.io/javascript-paint",
+    link: "https://hyemin-pb.github.io/javascript-paint/",
   },
   {
     category: "javascript",
