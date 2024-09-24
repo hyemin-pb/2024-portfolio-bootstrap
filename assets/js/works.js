@@ -95,8 +95,10 @@ const items = [
 const grid = document.getElementById("portfolio-grid");
 
 items.forEach((item) => {
-  const isInSubdirectory = window.location.pathname.startsWith("/pages");
+  const { pathname } = window.location;
+  const isInSubdirectory = pathname.includes("/pages");
   const imgSrc = isInSubdirectory ? `../${item.img}` : item.img;
+  console.log(pathname, isInSubdirectory, imgSrc);
 
   const isExternalLink = item.link.startsWith("http");
 
