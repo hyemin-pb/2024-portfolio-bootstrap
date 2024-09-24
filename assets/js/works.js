@@ -11,7 +11,7 @@ const items = [
     title: "phantom",
     subtitle: "responsive web",
     img: "assets/img/phantom.webp",
-    link: "https:/hyemin-pb.github.io/responsive-forty",
+    link: "https:/hyemin-pb.github.io/responsive-phantom",
   },
   {
     category: "javascript",
@@ -32,21 +32,21 @@ const items = [
     title: "starbucks",
     subtitle: "Publishing",
     img: "assets/img/starbucks.webp",
-    link: "pages/pb-painting.html",
+    link: "https://hyemin-pb.github.io/javascript-starbucks/",
   },
   {
     category: "javascript",
     title: "그림판",
     subtitle: "Main Page Publishing",
     img: "assets/img/paint.webp",
-    link: "pages/pb-painting.html",
+    link: "https://hyemin-pb.github.io/javascript-paint/",
   },
   {
     category: "javascript",
     title: "moment",
     subtitle: "Publishing",
     img: "assets/img/moment.webp",
-    link: "pages/pb-painting.html",
+    link: "https://hyemin-pb.github.io/javascript-moment/",
   },
   {
     category: "jQuery",
